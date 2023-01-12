@@ -1,7 +1,7 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://consoled.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-theme-shell"
+title = "musti.console"
+theme = "retro"
 
 [Params]
     [Params.Terminal]
